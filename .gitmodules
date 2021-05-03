@@ -1,0 +1,3 @@
+[submodule "CPDBv2_backend"]
+	path = CPDBv2_backend
+	url = git@github.com:invinst/CPDBv2_backend.git
